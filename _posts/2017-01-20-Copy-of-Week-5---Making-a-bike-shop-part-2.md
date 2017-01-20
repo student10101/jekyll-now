@@ -1,5 +1,5 @@
 ---
-title: Copy of Week 5 - Making a bike shop part 2
+title: Week 5 - Making a bike shop part 2
 layout: post
 author: hugo.ricketts
 permalink: /copy-of-week-5---making-a-bike-shop-part-2/
