@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title:  </td>
-    <td>Uploading a video to my blog.</td>
+    <td>Summer Half term </td>
     <td> Date:  </td>
-    <td>20/01/17</td>
+    <td>16/06/17</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I watched a video on how to do this.</td>
+    <td>Week 1 of summer half term</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To successfully upload a youtube video to my blog</td>
+    <td>To successfully make a quiz</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -33,5 +33,5 @@ published: true
 </table>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIY9LKwca1Q?list=PLeYcZKFunNkXqtROPG0lIYJSTyBvSYQq9" frameborder="0" allowfullscreen></iframe>
+<script src="//repl.it/embed/H5wH/2.js"></script>
 
