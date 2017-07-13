@@ -55,5 +55,3 @@ published: true
 </table>
 
 
-<script src="//repl.it/embed/Ixb4/1.js"></script>
-
